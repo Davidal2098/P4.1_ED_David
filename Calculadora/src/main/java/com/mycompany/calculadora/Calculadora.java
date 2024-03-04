@@ -16,10 +16,9 @@ public class Calculadora {
     }
     
     public int suma(int numero1, int numero2){
-        int suma;
-        
+        int suma;      
         suma = numero1 + numero2; 
-        
         return suma;
     }
+    
 }
